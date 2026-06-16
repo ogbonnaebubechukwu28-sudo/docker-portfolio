@@ -46,9 +46,9 @@ docker ps
 Open browser at: http://localhost:8080
 
 ### Screenshots
-!Docker Image [Docker Image](screenshots/docker-image.PNG)
-!Running Container [Running Container](screenshots/docker-ps.PNG)
-!Portfolio Website [Portfolio Website](screenshots/browser.PNG)
+![Docker Image](screenshots/docker-image.PNG)
+![Running Container](screenshots/docker-ps.PNG)
+![Portfolio Website](screenshots/browser.PNG)
 
 ## Challenges Encountered
 
